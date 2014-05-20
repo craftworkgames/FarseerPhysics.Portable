@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using FarseerPhysics.Portable.Collision.Shapes;
-using FarseerPhysics.Portable.Common;
-using FarseerPhysics.Portable.Common.Decomposition;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Collision.Shapes;
+using FarseerPhysics.Common;
+using FarseerPhysics.Common.Decomposition;
+using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Factories
+namespace FarseerPhysics.Factories
 {
     /// <summary>
     /// An easy to use factory for creating bodies

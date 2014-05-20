@@ -22,12 +22,12 @@
 
 using System;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Collision;
-using FarseerPhysics.Portable.Collision.Shapes;
-using FarseerPhysics.Portable.Common;
+using FarseerPhysics.Collision;
+using FarseerPhysics.Collision.Shapes;
+using FarseerPhysics.Common;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics.Contacts
+namespace FarseerPhysics.Dynamics.Contacts
 {
     public sealed class ContactPositionConstraint
     {

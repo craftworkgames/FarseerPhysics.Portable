@@ -5,13 +5,13 @@
 
 using System.Collections.Generic;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Common.Decomposition.CDT;
-using FarseerPhysics.Portable.Common.Decomposition.CDT.Delaunay;
-using FarseerPhysics.Portable.Common.Decomposition.CDT.Delaunay.Sweep;
-using FarseerPhysics.Portable.Common.Decomposition.CDT.Polygon;
+using FarseerPhysics.Common.Decomposition.CDT;
+using FarseerPhysics.Common.Decomposition.CDT.Delaunay;
+using FarseerPhysics.Common.Decomposition.CDT.Delaunay.Sweep;
+using FarseerPhysics.Common.Decomposition.CDT.Polygon;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.Decomposition
+namespace FarseerPhysics.Common.Decomposition
 {
     /// <summary>
     /// 2D constrained Delaunay triangulation algorithm.

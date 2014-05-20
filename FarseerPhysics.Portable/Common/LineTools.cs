@@ -1,8 +1,8 @@
 ﻿using System;
-using FarseerPhysics.Portable.Collision;
+using FarseerPhysics.Collision;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common
+namespace FarseerPhysics.Common
 {
     /// <summary>
     /// Collection of helper methods for misc collisions.

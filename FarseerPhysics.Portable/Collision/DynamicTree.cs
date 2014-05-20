@@ -23,10 +23,10 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Common;
+using FarseerPhysics.Common;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Collision
+namespace FarseerPhysics.Collision
 {
     /// <summary>
     /// A node in the dynamic tree. The client does not interact with this directly.

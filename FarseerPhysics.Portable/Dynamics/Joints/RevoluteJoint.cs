@@ -21,10 +21,10 @@
 */
 
 using System;
-using FarseerPhysics.Portable.Common;
+using FarseerPhysics.Common;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics.Joints
+namespace FarseerPhysics.Dynamics.Joints
 {
     /// <summary>
     /// A revolute joint constrains to bodies to share a common point while they

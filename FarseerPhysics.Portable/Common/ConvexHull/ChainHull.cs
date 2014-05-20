@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.ConvexHull
+namespace FarseerPhysics.Common.ConvexHull
 {
     /// <summary>
     /// Andrew's Monotone Chain Convex Hull algorithm.

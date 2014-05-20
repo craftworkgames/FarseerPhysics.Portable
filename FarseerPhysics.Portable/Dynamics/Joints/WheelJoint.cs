@@ -21,10 +21,10 @@
 */
 
 using System;
-using FarseerPhysics.Portable.Common;
+using FarseerPhysics.Common;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics.Joints
+namespace FarseerPhysics.Dynamics.Joints
 {
     // Linear constraint (point-to-line)
     // d = pB - pA = xB + rB - xA - rA

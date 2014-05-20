@@ -1,7 +1,7 @@
-﻿using FarseerPhysics.Portable.Dynamics;
+﻿using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Controllers
+namespace FarseerPhysics.Controllers
 {
     /// <summary>
     /// Reference implementation for forces based on AbstractForceController

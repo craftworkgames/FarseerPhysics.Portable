@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.PolygonManipulation
+namespace FarseerPhysics.Common.PolygonManipulation
 {
     /// <summary>
     /// Provides a set of tools to simplify polygons in various ways.

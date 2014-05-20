@@ -4,11 +4,11 @@
 */
 
 using System;
-using FarseerPhysics.Portable.Common;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Common;
+using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable
+namespace FarseerPhysics
 {
     [Flags]
     public enum DebugViewFlags

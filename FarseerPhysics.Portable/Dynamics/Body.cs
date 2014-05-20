@@ -24,16 +24,16 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Collision;
-using FarseerPhysics.Portable.Collision.Shapes;
-using FarseerPhysics.Portable.Common;
-using FarseerPhysics.Portable.Common.PhysicsLogic;
-using FarseerPhysics.Portable.Controllers;
-using FarseerPhysics.Portable.Dynamics.Contacts;
-using FarseerPhysics.Portable.Dynamics.Joints;
+using FarseerPhysics.Collision;
+using FarseerPhysics.Collision.Shapes;
+using FarseerPhysics.Common;
+using FarseerPhysics.Common.PhysicsLogic;
+using FarseerPhysics.Controllers;
+using FarseerPhysics.Dynamics.Contacts;
+using FarseerPhysics.Dynamics.Joints;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics
+namespace FarseerPhysics.Dynamics
 {
     /// <summary>
     /// The body type.

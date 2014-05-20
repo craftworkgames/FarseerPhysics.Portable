@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace FarseerPhysics.Portable.Common.Decomposition.Seidel
+namespace FarseerPhysics.Common.Decomposition.Seidel
 {
     internal class MonotoneMountain
     {

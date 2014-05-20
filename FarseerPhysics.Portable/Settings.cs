@@ -21,9 +21,9 @@
 */
 
 using System;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Dynamics;
 
-namespace FarseerPhysics.Portable
+namespace FarseerPhysics
 {
     public static class Settings
     {

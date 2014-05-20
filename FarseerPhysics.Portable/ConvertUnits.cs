@@ -5,7 +5,7 @@
 
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable
+namespace FarseerPhysics
 {
     /// <summary>
     /// Convert units between display and simulation units.

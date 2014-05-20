@@ -22,7 +22,7 @@
 
 using System;
 
-namespace FarseerPhysics.Portable.Common
+namespace FarseerPhysics.Common
 {
     public struct FixedArray2<T>
     {

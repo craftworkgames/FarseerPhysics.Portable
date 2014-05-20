@@ -28,14 +28,14 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Collision;
-using FarseerPhysics.Portable.Common;
-using FarseerPhysics.Portable.Controllers;
-using FarseerPhysics.Portable.Dynamics.Contacts;
-using FarseerPhysics.Portable.Dynamics.Joints;
+using FarseerPhysics.Collision;
+using FarseerPhysics.Common;
+using FarseerPhysics.Controllers;
+using FarseerPhysics.Dynamics.Contacts;
+using FarseerPhysics.Dynamics.Joints;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics
+namespace FarseerPhysics.Dynamics
 {
     /// <summary>
     /// The world class manages all physics entities, dynamic simulation,

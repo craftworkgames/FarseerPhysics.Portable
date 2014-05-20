@@ -21,10 +21,10 @@
 */
 
 using System.Diagnostics;
-using FarseerPhysics.Portable.Common;
+using FarseerPhysics.Common;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics.Joints
+namespace FarseerPhysics.Dynamics.Joints
 {
     // p = attached point, m = mouse point
     // C = p - m

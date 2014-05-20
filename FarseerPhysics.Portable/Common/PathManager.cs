@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using FarseerPhysics.Portable.Collision.Shapes;
-using FarseerPhysics.Portable.Common.Decomposition;
-using FarseerPhysics.Portable.Dynamics;
-using FarseerPhysics.Portable.Dynamics.Joints;
+using FarseerPhysics.Collision.Shapes;
+using FarseerPhysics.Common.Decomposition;
+using FarseerPhysics.Dynamics;
+using FarseerPhysics.Dynamics.Joints;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common
+namespace FarseerPhysics.Common
 {
     /// <summary>
     /// An easy to use manager for creating paths.

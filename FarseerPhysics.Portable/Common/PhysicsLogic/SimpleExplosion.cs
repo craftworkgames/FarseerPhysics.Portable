@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using FarseerPhysics.Portable.Collision;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Collision;
+using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.PhysicsLogic
+namespace FarseerPhysics.Common.PhysicsLogic
 {
     /// <summary>
     /// Creates a simple explosion that ignores other bodies hiding behind static bodies.

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace FarseerPhysics.Portable.Common.Decomposition.Seidel
+namespace FarseerPhysics.Common.Decomposition.Seidel
 {
     // Directed Acyclic graph (DAG)
     // See "Computational Geometry", 3rd edition, by Mark de Berg et al, Chapter 6.2

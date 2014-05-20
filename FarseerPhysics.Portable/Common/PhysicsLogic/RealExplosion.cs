@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using FarseerPhysics.Portable.Collision;
-using FarseerPhysics.Portable.Collision.Shapes;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Collision;
+using FarseerPhysics.Collision.Shapes;
+using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.PhysicsLogic
+namespace FarseerPhysics.Common.PhysicsLogic
 {
     // Original Code by Steven Lu - see http://www.box2d.org/forum/viewtopic.php?f=3&t=1688
     // Ported to Farseer 3.0 by Nicolás Hormazábal

@@ -1,6 +1,6 @@
-﻿using FarseerPhysics.Portable.Dynamics;
+﻿using FarseerPhysics.Dynamics;
 
-namespace FarseerPhysics.Portable.Common.PhysicsLogic
+namespace FarseerPhysics.Common.PhysicsLogic
 {
     /// <summary>
     /// Contains filter data that can determine whether an object should be processed or not.

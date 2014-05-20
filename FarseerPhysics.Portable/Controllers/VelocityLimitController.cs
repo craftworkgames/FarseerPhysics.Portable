@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Dynamics;
 
-namespace FarseerPhysics.Portable.Controllers
+namespace FarseerPhysics.Controllers
 {
     /// <summary>
     /// Put a limit on the linear (translation - the movespeed) and angular (rotation) velocity
