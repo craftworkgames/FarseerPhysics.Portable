@@ -41,9 +41,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using FarseerPhysics.Portable.Common.Decomposition.CDT.Delaunay;
+using FarseerPhysics.Common.Decomposition.CDT.Delaunay;
 
-namespace FarseerPhysics.Portable.Common.Decomposition.CDT.Polygon
+namespace FarseerPhysics.Common.Decomposition.CDT.Polygon
 {
     internal class Polygon : Triangulatable
     {

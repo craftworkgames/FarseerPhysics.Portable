@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
-using FarseerPhysics.Portable.Collision;
+using FarseerPhysics.Collision;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.TextureTools
+namespace FarseerPhysics.Common.TextureTools
 {
     // Ported by Matthew Bettcher - Feb 2011
 

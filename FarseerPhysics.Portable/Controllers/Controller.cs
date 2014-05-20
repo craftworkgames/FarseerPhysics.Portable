@@ -1,8 +1,8 @@
 ﻿using System;
-using FarseerPhysics.Portable.Common.PhysicsLogic;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Common.PhysicsLogic;
+using FarseerPhysics.Dynamics;
 
-namespace FarseerPhysics.Portable.Controllers
+namespace FarseerPhysics.Controllers
 {
     [Flags]
     public enum ControllerType

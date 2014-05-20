@@ -30,9 +30,9 @@
  */
 
 using System.Collections.Generic;
-using FarseerPhysics.Portable.Common.Decomposition.CDT.Delaunay.Sweep;
+using FarseerPhysics.Common.Decomposition.CDT.Delaunay.Sweep;
 
-namespace FarseerPhysics.Portable.Common.Decomposition.CDT
+namespace FarseerPhysics.Common.Decomposition.CDT
 {
     internal class TriangulationPoint
     {

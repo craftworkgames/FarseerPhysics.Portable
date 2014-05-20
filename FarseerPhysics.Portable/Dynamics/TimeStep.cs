@@ -19,7 +19,7 @@
 
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics
+namespace FarseerPhysics.Dynamics
 {
     /// <summary>
     /// This is an internal structure.

@@ -36,7 +36,7 @@
  * 
  * @author Thomas Åhlén, thahlen@gmail.com
  */
-namespace FarseerPhysics.Portable.Common.Decomposition.CDT
+namespace FarseerPhysics.Common.Decomposition.CDT
 {
     internal class TriangulationConstraint
     {

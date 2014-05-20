@@ -1,4 +1,4 @@
-﻿namespace FarseerPhysics.Portable.Common.Decomposition.Seidel
+﻿namespace FarseerPhysics.Common.Decomposition.Seidel
 {
     internal class YNode : Node
     {

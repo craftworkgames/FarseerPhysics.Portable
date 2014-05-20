@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common
+namespace FarseerPhysics.Common
 {
     //Contributed by Matthew Bettcher
 

@@ -22,12 +22,12 @@
 
 using System;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Common;
-using FarseerPhysics.Portable.Dynamics.Contacts;
-using FarseerPhysics.Portable.Dynamics.Joints;
+using FarseerPhysics.Common;
+using FarseerPhysics.Dynamics.Contacts;
+using FarseerPhysics.Dynamics.Joints;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Dynamics
+namespace FarseerPhysics.Dynamics
 {
     /// <summary>
     /// This is an internal class.

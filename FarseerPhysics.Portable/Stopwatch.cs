@@ -1,7 +1,7 @@
 ﻿#if PORTABLE
 using System;
 
-namespace FarseerPhysics.Portable
+namespace FarseerPhysics
 {
     //http://www.wiredprairie.us/blog/index.php/archives/723
     public sealed class Stopwatch

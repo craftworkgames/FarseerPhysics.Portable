@@ -34,7 +34,7 @@ SOFTWARE.
 
 using System;
 
-namespace FarseerPhysics.Portable.Common
+namespace FarseerPhysics.Common
 {
     public class CurveKey : IEquatable<CurveKey>, IComparable<CurveKey>
     {

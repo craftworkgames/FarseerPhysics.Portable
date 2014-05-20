@@ -22,10 +22,10 @@
 
 using System;
 using System.Diagnostics;
-using FarseerPhysics.Portable.Common;
+using FarseerPhysics.Common;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Collision.Shapes
+namespace FarseerPhysics.Collision.Shapes
 {
     /// <summary>
     /// This holds the mass data computed for a shape.

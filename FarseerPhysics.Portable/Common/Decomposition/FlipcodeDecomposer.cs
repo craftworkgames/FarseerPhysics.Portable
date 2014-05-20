@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.Decomposition
+namespace FarseerPhysics.Common.Decomposition
 {
     /// <summary>
     /// Convex decomposition algorithm created by unknown

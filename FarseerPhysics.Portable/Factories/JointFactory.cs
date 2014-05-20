@@ -1,8 +1,8 @@
-﻿using FarseerPhysics.Portable.Dynamics;
-using FarseerPhysics.Portable.Dynamics.Joints;
+﻿using FarseerPhysics.Dynamics;
+using FarseerPhysics.Dynamics.Joints;
 using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Factories
+namespace FarseerPhysics.Factories
 {
     /// <summary>
     /// An easy to use factory for using joints.

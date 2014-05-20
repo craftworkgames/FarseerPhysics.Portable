@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FarseerPhysics.Portable.Common.Decomposition.CDT.Util
+namespace FarseerPhysics.Common.Decomposition.CDT.Util
 {
     internal class PointGenerator
     {

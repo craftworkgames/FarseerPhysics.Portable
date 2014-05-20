@@ -20,12 +20,12 @@
 * 3. This notice may not be removed or altered from any source distribution. 
 */
 
-using FarseerPhysics.Portable.Collision;
-using FarseerPhysics.Portable.Controllers;
-using FarseerPhysics.Portable.Dynamics.Contacts;
-using FarseerPhysics.Portable.Dynamics.Joints;
+using FarseerPhysics.Collision;
+using FarseerPhysics.Controllers;
+using FarseerPhysics.Dynamics.Contacts;
+using FarseerPhysics.Dynamics.Joints;
 
-namespace FarseerPhysics.Portable.Dynamics
+namespace FarseerPhysics.Dynamics
 {
     /// <summary>
     /// This delegate is called when a contact is deleted

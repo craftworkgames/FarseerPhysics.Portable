@@ -1,10 +1,10 @@
 ﻿using System;
-using FarseerPhysics.Portable.Dynamics;
+using FarseerPhysics.Dynamics;
 using Microsoft.Xna.Framework;
-using Curve = FarseerPhysics.Portable.Common.Curve;
-using CurveKey = FarseerPhysics.Portable.Common.CurveKey;
+using Curve = FarseerPhysics.Common.Curve;
+using CurveKey = FarseerPhysics.Common.CurveKey;
 
-namespace FarseerPhysics.Portable.Controllers
+namespace FarseerPhysics.Controllers
 {
     public abstract class AbstractForceController : Controller
     {

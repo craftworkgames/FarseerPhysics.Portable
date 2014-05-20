@@ -1,6 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 
-namespace FarseerPhysics.Portable.Common.ConvexHull
+namespace FarseerPhysics.Common.ConvexHull
 {
     /// <summary>
     /// Giftwrap convex hull algorithm.

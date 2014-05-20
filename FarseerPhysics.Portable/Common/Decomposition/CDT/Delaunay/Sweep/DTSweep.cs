@@ -49,7 +49,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace FarseerPhysics.Portable.Common.Decomposition.CDT.Delaunay.Sweep
+namespace FarseerPhysics.Common.Decomposition.CDT.Delaunay.Sweep
 {
     internal static class DTSweep
     {
