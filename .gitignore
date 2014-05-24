@@ -1,8 +1,4 @@
-/*.suo
-/FarseerPhysics.Portable/obj/Debug/*.cache
-/FarseerPhysics.Portable/bin/Debug
-/FarseerPhysics.Portable/obj/Debug/*.pdb
-/FarseerPhysics.Portable/obj/Debug
-/packages/MonoGame-Portable.3.2.1
-/FarseerPhysics.Portable/bin/Release
-/FarseerPhysics.Portable/obj/Release
+*.suo
+[Oo]bj
+[Bb]in
+[Pp]ackages
