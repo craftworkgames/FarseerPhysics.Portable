@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>FarseerPhysics.Portable</id>
-        <version>1.0.0</version>
+        <version>3.5.1</version>
         <title>FarseerPhysics.Portable</title>
-        <authors>&lt;author&gt;</authors>
-        <owners>&lt;owner&gt;</owners>
+        <authors>Craftwork Games</authors>
+        <owners>https://farseerphysics.codeplex.com/</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>My package description.</description>
+        <description>Farseer Physics compiled as a portable class library (PCL) for use with the PCL version of MonoGame.</description>
     </metadata>
     <files>
         <file src="FarseerPhysics.Portable\bin\Release\FarseerPhysics.Portable.dll" target="lib\portable-net4+sl4+wp8+win8\FarseerPhysics.Portable.dll" />
