@@ -11,5 +11,6 @@
     </metadata>
     <files>
         <file src="FarseerPhysics.Portable\bin\Release\FarseerPhysics.Portable.dll" target="lib\portable-net4+sl4+wp8+win8\FarseerPhysics.Portable.dll" />
+        <file src="FarseerPhysics.Portable\bin\Release\FarseerPhysics.Portable.xml" target="lib\portable-net4+sl4+wp8+win8\FarseerPhysics.Portable.xml" />
     </files>
 </package>

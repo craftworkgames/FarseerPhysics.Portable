@@ -33,6 +33,7 @@
     <DefineConstants>TRACE;PORTABLE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\FarseerPhysics.Portable.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Stopwatch.cs" />
